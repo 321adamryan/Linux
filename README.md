@@ -80,10 +80,6 @@ Downloads the best available video and audio streams and merges them into a sing
 
 Replace the URL with the video you want to download.
 
-```bash
-yt-dlp -f "bv*+ba/b" --merge-output-format mkv "https://www.youtube.com/watch?v=y-ovlC9gzSU"
-```
-
 ### Generic Version
 
 ```bash
