@@ -1,3 +1,30 @@
+Quick Links 
+
+```bash
+csv_quiz_app.py
+```
+
+```bash
+imdb_filename_renamer.py
+```
+
+```bash
+imdbid_filename_scanner.py
+```
+
+```bash
+episode_renamer.py
+```
+
+```bash
+imdb_filename_restorer.py
+```
+
+```bash
+imdb_media_scanner.py
+```
+
+
 # 🐧 Linux Command Library
 
 A personal collection of my most-used Linux terminal commands, scripts, and utilities.
